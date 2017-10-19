@@ -1,0 +1,29 @@
+@font-face {
+    font-family: bionic;
+    src: url('bionic.ttf');
+}
+body{
+    border-top: 8px solid #ec8e38;
+    font-family: "Trebuchel MS", Tahoma, Arial, San-serif;
+}
+.container{
+    width: 960px;
+    margin: 0 auto;
+
+ }
+/*h1 {*/
+    /*color: blue;*/
+    /*font-family: bionic, Impact,san-serif;*/
+/*}*/
+.nav-tabs li{
+	font-size:12px;
+}
+.fadeInDown a{
+    color: blue;
+    font-family: bionic, Impact,san-serif;
+}
+.center-title{
+    font-size: 12px;
+    color: blue;
+    font-family: bionic, Impact,san-serif;
+}

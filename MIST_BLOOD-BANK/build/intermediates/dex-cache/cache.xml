@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\BB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="F:\BB\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-7.5.0_f97eeb8f527d17cb86f55e53f230556b4facfffc.jar" />
+    </item>
+    <item
+        jar="F:\BB\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="F:\BB\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1_5170d6fa099de987825a5b4b7ad7baa0589e2515.jar" />
+    </item>
+    <item
+        jar="F:\BB\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="F:\BB\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0-alpha1_1dbff5b4864db8b37363fbf0722d9e2970aeda8d.jar" />
+    </item>
+    <item
+        jar="F:\Android\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="F:\BB\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1_80051de8f3107cfe84aa6e3776f0a9d5f3097efe.jar" />
+    </item>
+    <item
+        jar="C:\Users\hamim\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.5\82edcaec6c7b4599eaeaaf11167ceea41db42f33\httpclient-android-4.3.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82edcaec6c7b4599eaeaaf11167ceea41db42f33">
+        <dex dex="F:\BB\app\build\intermediates\pre-dexed\debug\httpclient-android-4.3.5_d2ccc793e0a650f8c8bf690acfa4f67679222614.jar" />
+    </item>
+    <item
+        jar="F:\BB\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="F:\BB\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-alpha1_76d3d5d1c5c72533bb4cd85304ee65db33f81a57.jar" />
+    </item>
+    <item
+        jar="F:\BB\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="F:\BB\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-alpha1_b8cb1058852f1ba5a2ff318f1b01ee5b427c9a8d.jar" />
+    </item>
+    <item
+        jar="F:\BB\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="F:\BB\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-7.5.0_b7347ccd8cadecdb62d101dd0981a868aeed3df1.jar" />
+    </item>
+    <item
+        jar="C:\Users\hamim\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="F:\BB\app\build\intermediates\pre-dexed\debug\library-1.0.19_1a5926b13571e48794f725200836adeca7ea8848.jar" />
+    </item>
+    <item
+        jar="F:\BB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="F:\BB\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-alpha1_0f4b851cce371bad871254d039cf8097b5e48dee.jar" />
+    </item>
+    <item
+        jar="C:\Users\hamim\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="F:\BB\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_5b03466896bbd0196e2178bc9801880eaf3890b8.jar" />
+    </item>
+
+</items>

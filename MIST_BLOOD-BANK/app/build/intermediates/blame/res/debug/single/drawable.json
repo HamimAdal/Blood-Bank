@@ -1,0 +1,602 @@
+[
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b19.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b19.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b16.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b16.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b4.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b4.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\w.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a25.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\a25.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\btn.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lo3.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\lo3.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo1.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\logo1.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cc2.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\cc2.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w1.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\w1.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\co6.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\co6.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\p2.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\p2.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apollo.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\apollo.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b13.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b13.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s4.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\s4.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\p3.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\p3.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_3.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\a_3.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\co13.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\co13.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sign.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\sign.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cc5.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\cc5.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s6.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\s6.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lo6.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\lo6.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\g1.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\g1.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\co4.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\co4.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l2.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\l2.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lo2.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\lo2.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s11.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\s11.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\co12.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\co12.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\h2.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\h2.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lo4.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\lo4.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b11.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b11.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s10.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\s10.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a30.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\a30.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cc9.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\cc9.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\p1.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\p1.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\co1.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\co1.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hospital1.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\hospital1.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo4.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\logo4.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b15.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b15.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b18.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b18.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a22.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\a22.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\co9.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\co9.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s12.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\s12.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\as.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\as.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logomist.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\logomist.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b17.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b17.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\co10.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\co10.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\h1.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\h1.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cc7.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\cc7.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\h3.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\h3.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cc6.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\cc6.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cc8.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\cc8.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b23.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b23.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b10.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b10.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hospital.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\hospital.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s5.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\s5.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\v1.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\v1.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lo1.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\lo1.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo5.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\logo5.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s1.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\s1.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b2.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b2.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\co5.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\co5.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\v5.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\v5.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b14.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b14.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s7.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\s7.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cc4.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\cc4.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\k.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\k.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dhaka.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\dhaka.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b1.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b1.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\v3.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\v3.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\square.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\square.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cc1.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\cc1.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w2.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\w2.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a27.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\a27.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lo9.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\lo9.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\co14.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\co14.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b8.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b8.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s8.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\s8.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c2.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\c2.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b7.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b7.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\logo2.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s2.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\s2.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b12.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b12.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\co7.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\co7.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\co3.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\co3.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s33.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\s33.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b20.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b20.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b21.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b21.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\l1.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\l1.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\greybackground.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\greybackground.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cc3.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\cc3.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\salimullah.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\salimullah.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\s3.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\s3.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c1.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\c1.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lo5.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\lo5.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\united.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\united.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b5.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\b5.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\h4.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\h4.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\co8.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\co8.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\co2.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\co2.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yo.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\yo.jpg"
+    },
+    {
+        "merged": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\co11.jpg",
+        "source": "F:\\02_MIST BLOOD BANK\\MIST_BLOOD-BANK\\app\\src\\main\\res\\drawable\\co11.jpg"
+    }
+]

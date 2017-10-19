@@ -1,0 +1,481 @@
+<!-- copyrighted content owned by Android Arena (www.androidarena.co.in)-->
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#e8e8e7"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="140dp"
+            android:background="#eb2b39"
+            android:orientation="horizontal"
+            android:layout_alignParentTop="true">
+
+            <ImageView android:layout_width="fill_parent"
+                android:layout_height="140dp"
+                android:background="@drawable/hospital1"
+                android:layout_marginLeft="00dp"/>
+
+
+
+
+
+
+
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="48dp"
+                android:gravity="right"
+                android:orientation="horizontal" >
+
+                <ImageView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+
+                    />
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+        <LinearLayout android:layout_width="match_parent"
+            android:layout_height="2150dp"
+            android:layout_marginLeft="00dp"
+            android:layout_marginTop="00dp"
+            android:layout_marginRight="00dp"
+            android:layout_marginBottom="00dp"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:background="@drawable/w2"
+            >
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" APOLLO HOSPITALS"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="04dp"
+                android:layout_marginTop="20dp"
+                android:textSize="25sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+
+            <ImageView android:layout_width="280dp"
+                android:layout_height="180dp"
+                android:background="@drawable/apollo"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center_horizontal"/>
+            <Button
+                android:id="@+id/a1"
+                android:layout_marginRight="0dp"
+                android:layout_width="150dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="25dp"
+                android:text="LOCATION"
+                android:textColor="#fff"
+                android:textSize="20sp"
+                android:background="#eb3757"/>
+            <Button
+                android:id="@+id/c1"
+                android:layout_marginRight="0dp"
+                android:layout_width="110dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="25dp"
+                android:text="CALL"
+                android:textColor="#fff"
+                android:textSize="20sp"
+                android:background="#eb3757"/>
+
+
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" ADDRESS-PLOT: 81,"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="04dp"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="BLOCK: E,"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="04dp"
+                android:layout_marginTop="0dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="BASHUNDHARA R/A,"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="04dp"
+                android:layout_marginTop="0dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="DHAKA 1229"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="04dp"
+                android:layout_marginTop="0dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" PHONE NO-+8801729-276556"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="04dp"
+                android:layout_marginTop="0dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_gravity="center_horizontal|center_vertical"/>
+
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=
+                    "SIR SALIMULLAH MEDICAL "
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="4dp"
+                android:layout_marginTop="30dp"
+                android:textSize="25sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=
+                    "COLLEGE "
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="4dp"
+                android:layout_marginTop="0dp"
+                android:textSize="25sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+
+            <ImageView android:layout_width="280dp"
+                android:layout_height="180dp"
+                android:background="@drawable/salimullah"
+                android:layout_marginTop="30dp"
+                android:layout_gravity="center_horizontal"/>
+            <Button
+                android:id="@+id/a2"
+                android:layout_marginRight="0dp"
+                android:layout_width="150dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="25dp"
+                android:text="LOCATION"
+                android:textColor="#fff"
+                android:textSize="20sp"
+                android:background="#eb3757"/>
+            <Button
+                android:id="@+id/c2"
+                android:layout_marginRight="0dp"
+                android:layout_width="110dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="25dp"
+                android:text="CALL"
+                android:textColor="#fff"
+                android:textSize="20sp"
+                android:background="#eb3757"/>
+
+
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=
+                    "ADDRESS- MITFORD ROAD"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="4dp"
+                android:layout_marginTop="15dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+
+
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=
+                    "NEAR BURIGANGA BRIDGE"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="4dp"
+                android:layout_marginTop="0dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+
+
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=
+                    "DHAKA 1000"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="4dp"
+                android:layout_marginTop="0dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+
+
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=
+                    "PHONE NO- +88027319123"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="4dp"
+                android:layout_marginTop="0dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+
+
+
+
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="UNITED HOSPITAL"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="04dp"
+                android:layout_marginTop="20dp"
+                android:textSize="25sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+
+
+
+
+
+            <ImageView android:layout_width="280dp"
+                android:layout_height="180dp"
+                android:background="@drawable/united"
+                android:layout_marginTop="30dp"
+                android:layout_gravity="center_horizontal"/>
+            <Button
+                android:id="@+id/a3"
+                android:layout_marginRight="0dp"
+                android:layout_width="150dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="25dp"
+                android:text="LOCATION"
+                android:textColor="#fff"
+                android:textSize="20sp"
+                android:background="#eb3757"/>
+            <Button
+                android:id="@+id/c3"
+                android:layout_marginRight="0dp"
+                android:layout_width="110dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="25dp"
+                android:text="CALL"
+                android:textColor="#fff"
+                android:textSize="20sp"
+                android:background="#eb3757"/>
+
+
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ADDRESS- PLOT 15, ROAD 71,"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="04dp"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="GULSHAN, DHAKA-1212"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="04dp"
+                android:layout_marginTop="0dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="PHONE NO- +88028836444"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="04dp"
+                android:layout_marginTop="0dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="DHAKA MEDICAL COLLEGE"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="04dp"
+                android:layout_marginTop="20dp"
+                android:textSize="25sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+
+            <ImageView android:layout_width="280dp"
+                android:layout_height="180dp"
+                android:background="@drawable/dhaka"
+                android:layout_marginTop="30dp"
+                android:layout_gravity="center_horizontal"/>
+            <Button
+                android:id="@+id/a4"
+                android:layout_marginRight="0dp"
+                android:layout_width="150dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="25dp"
+                android:text="LOCATION"
+                android:textColor="#fff"
+                android:textSize="20sp"
+                android:background="#eb3757"/>
+            <Button
+                android:id="@+id/c4"
+                android:layout_marginRight="0dp"
+                android:layout_width="110dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="25dp"
+                android:text="CALL"
+                android:textColor="#fff"
+                android:textSize="20sp"
+                android:background="#eb3757"/>
+
+
+
+
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ADDRESS- SECRETARIATE"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="04dp"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ROAD NEAR SHAHEED MINAR"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="04dp"
+                android:layout_marginTop="0dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="DHAKA 1000"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="04dp"
+                android:layout_marginTop="0dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="PHONE NO- +94777275294"
+
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="04dp"
+                android:layout_marginTop="0dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+
+
+
+
+
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_horizontal"
+                >
+
+
+
+
+            </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

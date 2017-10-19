@@ -1,0 +1,86 @@
+.button1 {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.w{color:white;
+
+}
+.navbar {
+      margin-bottom: 0;
+      background-color:#CC0000;
+      z-index: 9999;
+      border: 0;
+      font-size: 30px !important;
+      line-height: 1.42857143 !important;
+      letter-spacing: 4px;
+      border-radius: 0;
+      font-family: Montserrat, sans-serif;
+  }
+.navbar li a, .navbar .navbar-brand {
+      color: #fff !important;
+  }
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+      color: #FF0000 !important;
+      background-color: #fff !important;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+      color: #fff !important;
+  }
+table {
+  font-family: 'Verdana';
+  margin: 25px auto;
+  border-collapse: separate;
+border-spacing: 5px;
+  border: 2px solid #eee;
+  background-color:#FF0000;
+
+
+text-align:center;
+border-radius:20px;
+}
+
+td:hover {
+ 
+background:#FFFFFF;
+text-decoration: underline;
+}
+th, td {
+  font-family: 'Verdana';
+  color: #CC0000;
+  border: 1px solid #eee;
+  padding: 12px 35px;
+  text-align:center;
+  
+}
+th {
+  background:#CC0000;
+  text-transform: uppercase;
+  font-size: 12px;
+  border-radius: 5px;
+  text-align:center;
+}
+tr, td {
+transition: all 1s;
+border-radius: 5px;
+box-shadow: 3px 3px #CC0000;
+background-color:#FF0000;
+}
+h1{
+	color:#1A237E;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 20px;
+}
+body {
+	
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight:300;
+	text-align: left;
+	text-decoration: none;
+	height: 500px;
+	
+}

@@ -1,0 +1,20 @@
+
+Link       :freehostingeu.com
+Client ID  : 2110310
+Login email: hamimdc@gmail.com
+
+
+
+
+
+databasename      :2110310_mist
+databaseusername  :2110310_mist
+databasepassword  :mistcse1234
+host              :fdb14.freehostingeu.com
+
+domainname        :mistcse.eu.pn
+
+
+
+Email             :mistbloodbank@gmail.com
+Password          :mistbloodbank1234

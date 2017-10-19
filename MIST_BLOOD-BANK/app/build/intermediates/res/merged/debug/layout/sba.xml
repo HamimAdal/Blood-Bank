@@ -1,0 +1,283 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="#e8e8e7"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="140dp"
+            android:background="#eb543b"
+            android:orientation="horizontal"
+            android:layout_alignParentTop="true">
+
+            <ImageView android:layout_width="fill_parent"
+                android:layout_height="140dp"
+                android:background="@drawable/h2"
+                android:layout_marginLeft="00dp"/>
+
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="00dp"
+            android:layout_marginTop="00dp"
+            android:layout_marginRight="00dp"
+            android:layout_marginBottom="00dp"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:background="@drawable/w2"
+            >
+
+
+
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_horizontal"
+                >
+
+
+            </LinearLayout>
+            <Button
+                android:id="@+id/map"
+                android:layout_width="190dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="50dp"
+                android:text="SEARCH NEAREST LOCATION "
+                android:layout_marginRight="0dp"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+
+
+            <Button
+                android:id="@+id/a1"
+                android:layout_width="210dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="50dp"
+                android:text="Bailey Road"
+                android:layout_marginRight="0dp"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+
+
+
+            <Button
+                android:id="@+id/a2"
+                android:layout_marginRight="0dp"
+                android:layout_width="210dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:text="Banani"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+            <Button
+                android:id="@+id/a3"
+                android:layout_marginRight="0dp"
+                android:layout_width="210dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:text="Banasree"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+            <Button
+                android:id="@+id/a4"
+                android:layout_marginRight="0dp"
+                android:layout_width="210dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:text="Bangla Motor"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+
+            <Button
+                android:id="@+id/a5"
+                android:layout_width="210dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:text="Baridhara"
+                android:layout_marginRight="0dp"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+
+
+
+            <Button
+                android:id="@+id/a6"
+                android:layout_marginRight="0dp"
+                android:layout_width="210dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:text="Dhanmondi"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+            <Button
+                android:id="@+id/a7"
+                android:layout_marginRight="0dp"
+                android:layout_width="210dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:text="Eskaton road"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+            <Button
+                android:id="@+id/a8"
+                android:layout_marginRight="0dp"
+                android:layout_width="210dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:text="Green Road"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+
+            <Button
+                android:id="@+id/a9"
+                android:layout_width="210dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:text="Gulshan"
+                android:layout_marginRight="0dp"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+
+
+
+            <Button
+                android:id="@+id/a10"
+                android:layout_marginRight="0dp"
+                android:layout_width="210dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:text="Kalabagan"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+            <Button
+                android:id="@+id/a11"
+                android:layout_marginRight="0dp"
+                android:layout_width="210dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:text="Lalmatia"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+            <Button
+                android:id="@+id/a12"
+                android:layout_marginRight="0dp"
+                android:layout_width="210dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:text="Malibagh"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+
+            <Button
+                android:id="@+id/a13"
+                android:layout_width="210dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                android:text="Moghbazar"
+                android:layout_marginRight="0dp"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+
+
+
+            <Button
+                android:id="@+id/a14"
+                android:layout_marginRight="0dp"
+                android:layout_width="210dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:text="Mohakhali"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+            <Button
+                android:id="@+id/a15"
+                android:layout_marginRight="0dp"
+                android:layout_width="210dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:text="Mohammadpur"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+
+
+            <Button
+                android:id="@+id/a16"
+                android:layout_marginRight="0dp"
+                android:layout_width="210dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:text="Shantinagar"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+            <Button
+                android:id="@+id/a17"
+                android:layout_marginRight="0dp"
+                android:layout_width="210dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="20dp"
+                android:text="Uttara"
+                android:textColor="#fff"
+                android:textSize="21dp"
+                android:background="#eb3757"/>
+
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

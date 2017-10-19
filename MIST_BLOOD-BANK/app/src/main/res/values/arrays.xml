@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string-array name="quixote_characters">
+        <item>BAILEYROAD</item>
+        <item>BANANI</item>
+        <item>BANASREE</item>
+        <item>BANGLAMOTOR</item>
+        <item>BARIDHARA</item>
+        <item>DHANMONDI</item>
+        <item>ESKATONROAD</item>
+        <item>GREENROAD</item>
+        <item>GULSHAN</item>
+        <item>KALABAGAN</item>
+        <item>LALMATIA</item>
+        <item>MALIBAGH</item>
+        <item>MOGHBAZAR</item>
+        <item>MOHAKHALI</item>
+        <item>MOHAMMADPUR</item>
+        <item>MOHAKHALI</item>
+        <item>SHANTINAGAR</item>
+        <item>UTTARA</item>
+
+    </string-array>
+
+    <string-array name="group">
+        <item>A_POSITIVE</item>
+        <item>A_NEGATIVE</item>
+        <item>B_POSITIVE</item>
+        <item>B_NEGATIVE</item>
+        <item>O_POSITIVE</item>
+        <item>O_NEGATIVE</item>
+        <item>AB_POSITIVE</item>
+        <item>AB_NEGATIVE</item>
+
+
+    </string-array>
+</resources>

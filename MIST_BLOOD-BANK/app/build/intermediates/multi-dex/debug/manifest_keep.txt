@@ -1,0 +1,60 @@
+-keep class com.example.hamim.bb.MapsActivity4 { <init>(); }
+-keep class com.example.hamim.bb.SplashScreenActivity { <init>(); }
+-keep class com.example.hamim.bb.MainActivity { <init>(); }
+-keep class com.example.hamim.bb.Donor { <init>(); }
+-keep class com.example.hamim.bb.sign { <init>(); }
+-keep class com.example.hamim.bb.register { <init>(); }
+-keep class com.example.hamim.bb.contactus { <init>(); }
+-keep class com.example.hamim.bb.aboutus { <init>(); }
+-keep class com.example.hamim.bb.nad { <init>(); }
+-keep class com.example.hamim.bb.coninfo { <init>(); }
+-keep class com.example.hamim.bb.sba { <init>(); }
+-keep class com.example.hamim.bb.sbr { <init>(); }
+-keep class com.example.hamim.bb.banani { <init>(); }
+-keep class com.example.hamim.bb.sbbg { <init>(); }
+-keep class com.example.hamim.bb.z1 { <init>(); }
+-keep class com.example.hamim.bb.z2 { <init>(); }
+-keep class com.example.hamim.bb.z3 { <init>(); }
+-keep class com.example.hamim.bb.z4 { <init>(); }
+-keep class com.example.hamim.bb.z5 { <init>(); }
+-keep class com.example.hamim.bb.z6 { <init>(); }
+-keep class com.example.hamim.bb.z7 { <init>(); }
+-keep class com.example.hamim.bb.z8 { <init>(); }
+-keep class com.example.hamim.bb.hospital { <init>(); }
+-keep class com.example.hamim.bb.email { <init>(); }
+-keep class com.example.hamim.bb.MapsActivity { <init>(); }
+-keep class com.example.hamim.bb.MapsActivity1 { <init>(); }
+-keep class com.example.hamim.bb.MapsActivity2 { <init>(); }
+-keep class com.example.hamim.bb.MapsActivity3 { <init>(); }
+-keep class com.example.hamim.bb.MapsActivity5 { <init>(); }
+-keep class com.example.hamim.bb.MapsActivitylocation { <init>(); }
+-keep class com.example.hamim.bb.baileyroad { <init>(); }
+-keep class com.example.hamim.bb.banasree { <init>(); }
+-keep class com.example.hamim.bb.banglamotor { <init>(); }
+-keep class com.example.hamim.bb.baridhara { <init>(); }
+-keep class com.example.hamim.bb.dhanmondi { <init>(); }
+-keep class com.example.hamim.bb.eskatonroad { <init>(); }
+-keep class com.example.hamim.bb.greenroad { <init>(); }
+-keep class com.example.hamim.bb.gulshan { <init>(); }
+-keep class com.example.hamim.bb.kalabagan { <init>(); }
+-keep class com.example.hamim.bb.lalmatia { <init>(); }
+-keep class com.example.hamim.bb.malibagh { <init>(); }
+-keep class com.example.hamim.bb.moghbazar { <init>(); }
+-keep class com.example.hamim.bb.mohakhali { <init>(); }
+-keep class com.example.hamim.bb.mohammadpur { <init>(); }
+-keep class com.example.hamim.bb.shantinagar { <init>(); }
+-keep class com.example.hamim.bb.uttara { <init>(); }
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity { <init>(); }
+-keep class com.google.android.gms.appinvite.PreviewActivity { <init>(); }
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

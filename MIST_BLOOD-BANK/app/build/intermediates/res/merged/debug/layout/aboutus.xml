@@ -1,0 +1,90 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#e8e8e7"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#eb543b"
+            android:orientation="horizontal"
+            android:layout_alignParentTop="true">
+
+            <ImageView android:layout_width="fill_parent"
+                android:layout_height="140dp"
+                android:background="@drawable/g1"
+                android:layout_marginLeft="00dp"/>
+
+
+
+
+
+
+
+        </RelativeLayout>
+
+        <LinearLayout android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="00dp"
+            android:layout_marginTop="00dp"
+            android:layout_marginRight="00dp"
+            android:layout_marginBottom="00dp"
+            android:gravity="center_horizontal"
+            android:background="@drawable/v5"
+            android:orientation="vertical">
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="MIST BLOOD BANK"
+                android:layout_marginTop="40dp"
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="00dp"
+                android:textSize="35sp"
+                android:textStyle="bold|italic"
+
+                android:layout_gravity="center_horizontal|center_vertical"/>
+
+            <TextView android:layout_width="343dp"
+                android:layout_height="fill_parent"
+                android:text="                 Blood donation is  one of  the  noblest and greatest  donations a  man can make. Blood is our  life-sap. It  has no substitute. Several  lives are lost for want of blood. Doctors need  blood  for transfusing it  in   the  body  of persons after operation  and  similar  situations  when  a  lot  of  blood  flows  out of the person’s body.
+
+
+Now-a-days  the   Blood  Banks  stores this  blood  in  sterilized  bottles  which are  to be  supplied in the time of need. But the increasing demand for blood at hospitals   and   other   health   centers   cannot   be    met   up   by   the   limited number of  professional  blood  sellers. We   must all   come forward to donate blood.
+
+People fewer than eighteen and above sixty   cannot   donate   blood. A donor must be at le   ast 47.5 kg by weight. A past  history  of  jaundice   and  certain other infectous diseaes contraindicate blood donation.
+
+Earlier  people  had  a  fear  that blood-donation  would   weaken   their  body-strength   and   hamper  their    natural immunity. Now-a-days  people  have a scientific bent   of mind. Once they are made    aware     of  the  fact  that   the amount of blood   taken out from their body is minimal and easily replenihed, they can easily let their fears go off.
+
+People should   understand   that  their  little contribution   can   prove to be of great   help   to   others  .  He   is   also personally   benefited. He   receives   a permit  which   enables   him to fetch a bottle of blood within   a  year,   free of cost. Who knows   whether   he himself or  his  near  or  dear    ones,   would be saved by that bottle of blood,  or not?
+
+We    should  all  come    forward    and donate   blood   if we   are  able-bodied because this one  simple  action would speak for itself  about  our  gentleness, fellow-feelings, kindness  and  love for humanity. God has created  life  in  this world. By donating blood to  the  life in need of blood, we save God’s children. Hence by serving man, we serve God."
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="40dp"
+                android:textColor="#f7faf5"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:textSize="20sp"
+                android:textStyle="bold|italic"
+
+                android:layout_gravity="center_horizontal|center_vertical" />
+
+
+
+
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

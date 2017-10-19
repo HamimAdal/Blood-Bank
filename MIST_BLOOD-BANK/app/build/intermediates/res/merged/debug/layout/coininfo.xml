@@ -1,0 +1,86 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="#e8e8e7"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="140dp"
+            android:background="#eb543b"
+            android:orientation="horizontal"
+            android:layout_alignParentTop="true">
+
+            <ImageView android:layout_width="fill_parent"
+                android:layout_height="140dp"
+                android:background="@drawable/c2"
+                android:layout_marginLeft="00dp"/>
+
+
+
+
+
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="48dp"
+                android:gravity="right"
+                android:orientation="horizontal" >
+
+                <ImageView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+
+                    />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="fill_parent"
+            android:layout_height="550dp"
+            android:layout_marginLeft="00dp"
+            android:layout_marginTop="00dp"
+            android:layout_marginRight="00dp"
+            android:layout_marginBottom="00dp"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:background="@drawable/h4"
+
+            >
+
+
+
+            <Button
+                android:id="@+id/bc"
+                android:layout_width="190dp"
+                android:layout_height="49dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="310dp"
+                android:text="Email us"
+                android:textColor="#fff"
+                android:textSize="19dp"
+                android:background="#eb3757"/>
+
+
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+</ScrollView>
